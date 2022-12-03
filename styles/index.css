@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    font-family: sans-serif;
+}
+.container{
+    margin: 20px 100px;
+    padding: 20px 100px;
+}
+hr{
+    border-top: 5px dotted;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    position: sticky;
+    top: 10PX;
+}
+#main{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(3, 3, 4);
+}
+#sent{
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(3, 3, 4) ;
+}
+.over{
+    text-align: center;
+    background-color:rgb(8, 182, 216) ;
+}
+#net{
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+#like{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.smallbox{
+    background-color: rgb(8, 182, 216);
+    color: rgb(0, 3, 4);
+}
+span{
+    color: blue;
+}
